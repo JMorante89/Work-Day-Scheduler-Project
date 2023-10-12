@@ -40,6 +40,7 @@
     -Easy UI to get immideate feedback if question was answered correctly.  
     -Final score out of 10 questions.  Time limit for fun engamement.  
     -Leaderboard to keep track of best scores.
+    -Dunno
 
   ## Credits📣
   Daniel Morante 
