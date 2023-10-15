@@ -1,4 +1,3 @@
-# Work Day Scheduler Starter Code
 # [Work Day Scheduler](https://jmorante89.github.io/Work-Day-Scheduler-Project/)
 
   ## Table of Contents
@@ -11,7 +10,7 @@
   - [License](#licenses🔍)
 
   ## Description📝
-  Coding Quiz  is a dynamic and engaging web application designed to test and enhance your coding skills. With a user-friendly interface, you can take on a variety of challenging coding questions that cover a wide range of web development concepts. Track your progress, receive instant feedback, and compete with friends on the leaderboard to prove your coding prowess. Whether you're a novice looking to learn or a seasoned developer aiming to sharpen your skills, this quiz is the perfect tool.
+The Work Day Scheduler is a user-friendly calendar app designed for managing events from 9am to 5pm. It aims to help busy individuals effectively organize their daily schedules. Users can easily add and save important events, and time blocks are color-coded to show past, present, and future periods. The project addresses the need for a convenient daily activity planner. Day.js library was utilized in the project for browser-based date and time manipulation, enhancing its dynamic and responsive features.
 
   ## Installation💻
   The provided URL will redirect users to a user-friendly website, obviating the need for any user-initiated installations. This application supports most browsers.
