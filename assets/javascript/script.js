@@ -14,7 +14,7 @@ $(function () {
 
 // Function to save a task in local storage based on the clicked button.
   function saveTask(event) {
-    // Find the parent element of the clicked  button.
+    // Find the parent element of the clicked button.
     var timeBlock = $(event.target).parent();
     if (timeBlock.is('button')) {
       timeBlock = timeBlock.parent();
